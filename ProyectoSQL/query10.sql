@@ -1,0 +1,1 @@
+﻿select round(avg(length),2) from film
