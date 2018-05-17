@@ -1,2 +1,3 @@
 # ProyectoSQL-EMIRDB
-Proyecto para Taller de bases de datos con Ing. Emir
+Torres Landeros Oscar Javier
+Gonzalez Jimenez Luis Francisco
